@@ -2,8 +2,8 @@ global.prefa = ['','!','.',',','🐤','🗿']
 
 global.owner = ['628xxx']
 global.botname = 'Alwaysaqioo'
-global.namaowner = 'Alwaysaqioo'
-global.baileys1 = require('@whiskeysockets/baileys') 
+global.namaowner = 'AG64462'
+global.baileys1 = require('@whiskeysockets/baileys@6.6.0') 
 global.sticker1 = "Alwaysaqioo"
 global.sticker2 = "🌜"
 global.apikey = '_'
